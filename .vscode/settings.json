@@ -1,0 +1,8 @@
+{
+  "search.useGlobalIgnoreFiles": false,
+  "editor.defaultFormatter": "Dart-Code.dart-code",
+  "workbench.editor.defaultBinaryEditor": "default",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
